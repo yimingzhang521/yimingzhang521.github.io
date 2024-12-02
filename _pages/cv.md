@@ -20,11 +20,14 @@ Work experience
 * 2021 - Present: Professor(tenure track) 
   * The school of Mechanical Engineering, Zhejiang University 
 
+
 * 2018 - 2021: Lead Engineer/Research Engineer
   * GE Research Center, Schenectady, New York 
 
+
 * 2017: Research Assistant
   * Siemens Corporate Technology, Princeton, New Jersey
+
 
 * 2014 - 2018: Research Assistant
   * University of Florida
