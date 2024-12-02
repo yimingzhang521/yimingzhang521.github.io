@@ -12,7 +12,7 @@ title                    : "Yiming Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Zhang"
 description              : &description "Professor (tenure track)"
-url                      : https://yimingzhang521.github.io"
+url                      : https://yimingzhang521.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yimingzhang521/yimingzhang521.github.io"
 
